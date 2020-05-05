@@ -1,2 +1,2 @@
 # CharityShop
-4 weeks project to develop JavaFx application to run on a charity shop.
+4 weeks project to develop Java application to run on a charity shop.
