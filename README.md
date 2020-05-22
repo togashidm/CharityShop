@@ -1,5 +1,4 @@
 # CharityShop
-
 ## Scenario
 
 “A charity shop is upgrading its till operation systems. It requires a new system to manage its goods in, sales, sales reports, and stock management. Our start-up has been awarded the tender, with a start date for the development of 28/05/2018. The system and software must be ready for the launch of the pilot scheme on 22nd June.
