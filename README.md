@@ -9,3 +9,9 @@
 * Users with administration-level access are to be able to produce sales and stock reports of various types e.g. sales by volume, price, and profit.
 
 There is no EPOS in store at this moment but as funds are limited the business requires a model that is affordable, versatile and user-friendly. "
+
+Check <object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://yoursite.com/the.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object> here for more details.
