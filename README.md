@@ -12,6 +12,6 @@ There is no EPOS in store at this moment but as funds are limited the business r
 
 <object data="https://github.com/togashidm/CharityShop/blob/master/Project_Presentation.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/togashidm/CharityShop/blob/master/Project_Presentation.pdf">
-        Check <a href="https://github.com/togashidm/CharityShop/blob/master/Project_Presentation.pdf">here</a>.
+        Check <a href="https://github.com/togashidm/CharityShop/blob/master/Project_Presentation.pdf">here</a>
     </embed>
-</object> here for more details.
+</object> for more details.
